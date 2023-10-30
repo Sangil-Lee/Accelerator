@@ -74,11 +74,15 @@
       <pv name="ctrlslab:error">
         <description>ctrlslab:error</description>
         <enabled>true</enabled>
-        <latching>true</latching>
+        <latching>false</latching>
         <annunciating>true</annunciating>
         <guidance>
           <title>Proc1</title>
           <details>Alarm Test</details>
+        </guidance>
+        <guidance>
+          <title>Proc2</title>
+          <details>Alarm Test2</details>
         </guidance>
         <command>
           <title>cmd1</title>

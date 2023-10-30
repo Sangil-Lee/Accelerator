@@ -2,9 +2,13 @@
   "user" : "JEM",
   "host" : "DESKTOP-OK7SAA6",
   "description" : "ctrlslab:error",
+  "latching" : false,
   "guidance" : [ {
     "title" : "Proc1",
     "details" : "Alarm Test"
+  }, {
+    "title" : "Proc2",
+    "details" : "Alarm Test2"
   } ],
   "commands" : [ {
     "title" : "cmd1",
