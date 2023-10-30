@@ -1,0 +1,13 @@
+{
+  "user" : "JEM",
+  "host" : "DESKTOP-OK7SAA6",
+  "description" : "ctrlslab:error",
+  "guidance" : [ {
+    "title" : "Proc1",
+    "details" : "Alarm Test"
+  } ],
+  "commands" : [ {
+    "title" : "cmd1",
+    "details" : "cmd1"
+  } ]
+}
