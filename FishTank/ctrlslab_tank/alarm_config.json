@@ -5,6 +5,9 @@
   "guidance" : [ {
     "title" : "Proc1",
     "details" : "ctrlslab:tank Action1"
+  }, {
+    "title" : "Proc2",
+    "details" : "ctrlslab:tank Action2"
   } ],
   "displays" : [ {
     "title" : "Screen1",
