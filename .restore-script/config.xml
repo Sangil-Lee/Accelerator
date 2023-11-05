@@ -98,6 +98,10 @@
           <title>Proc1</title>
           <details>ctrlslab:integral Action1</details>
         </guidance>
+        <command>
+          <title>Comm1</title>
+          <details>ctrlslab:Command1</details>
+        </command>
       </pv>
     </component>
     <pv name="ctrlslab:heat_V">

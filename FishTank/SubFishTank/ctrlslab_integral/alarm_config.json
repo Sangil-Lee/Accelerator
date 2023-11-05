@@ -5,5 +5,9 @@
   "guidance" : [ {
     "title" : "Proc1",
     "details" : "ctrlslab:integral Action1"
+  } ],
+  "commands" : [ {
+    "title" : "Comm1",
+    "details" : "ctrlslab:Command1"
   } ]
 }
