@@ -1,6 +1,6 @@
 {
-  "user" : "JEM",
-  "host" : "DESKTOP-OK7SAA6",
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
   "description" : "ctrlslab:tank",
   "displays" : [ {
     "title" : "Screen1",
