@@ -1,14 +1,7 @@
 {
-  "user" : "JEM",
-  "host" : "DESKTOP-OK7SAA6",
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
   "description" : "ctrlslab:tank",
-  "guidance" : [ {
-    "title" : "Proc1",
-    "details" : "ctrlslab:tank Action1"
-  }, {
-    "title" : "Proc2",
-    "details" : "ctrlslab:tank Action2"
-  } ],
   "displays" : [ {
     "title" : "Screen1",
     "details" : "C:\\phoebus-4.6.10\\fishtank\\heater.bob"
